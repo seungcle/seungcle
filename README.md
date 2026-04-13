@@ -27,12 +27,15 @@
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=dark&background=121212&fire=ffffff&ring=888888&stroke=444444&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" />
 
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cout980221)](https://solved.ac/cout980221)
+  
+  <a href="https://solved.ac/cout980221">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
+  </a>
 
   <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=레이아웃 스타일&theme=스타일)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&theme=vision-friendly-dark&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="Top Langs" />
 </div>
