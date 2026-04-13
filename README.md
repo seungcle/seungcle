@@ -20,22 +20,19 @@
   <br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 GitHub Stats </h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&bg_color=121212&title_color=ffffff&text_color=bbbbbb&icon_color=888888&border_color=444444" alt="seungcle's GitHub stats" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&bg_color=121212&title_color=ffffff&text_color=bbbbbb&border_color=444444" alt="top languages" height="175" />
-  </div>
-
-  <br>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&theme=tokyonight&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="seungcle's GitHub stats" height="175" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" />
 
-  <br>
-  
+  <br><br>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Top Languages </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&theme=tokyonight&bg_color=121212&title_color=6DB33F&text_color=ffffff&border_color=444444" alt="Top Langs" />
+
+  <br><br>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Problem Solving </h2>
   <a href="https://solved.ac/cout980221">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
   </a>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&theme=vision-friendly-dark&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="Top Langs" />
 </div>
