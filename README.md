@@ -28,4 +28,11 @@
   <br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=dark&background=121212&fire=ffffff&ring=888888&stroke=444444&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+  <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cout980221)](https://solved.ac/cout980221)
+
+  <br>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=레이아웃 스타일&theme=스타일)
 </div>
