@@ -22,8 +22,7 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 GitHub Stats </h2>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&theme=tokyonight&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="seungcle's GitHub stats" height="175" />
-    &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" height="175" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" height="175" />
   </div>
 
   <br><br>
