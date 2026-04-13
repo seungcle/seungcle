@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-
-
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
@@ -23,14 +21,16 @@
   <br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 GitHub Stats </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&theme=tokyonight&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="seungcle's GitHub stats" height="175" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&theme=tokyonight&bg_color=121212&title_color=61DAFB&text_color=ffffff&border_color=444444" alt="seungcle's GitHub stats" height="175" />
+    &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" height="175" />
+  </div>
 
   <br><br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Problem Solving </h2>
+  <br>
   <a href="https://solved.ac/cout980221">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
+    <img src="https://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
   </a>
 </div>
