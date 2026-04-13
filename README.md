@@ -26,11 +26,6 @@
 
   <br><br>
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Top Languages </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&theme=tokyonight&bg_color=121212&title_color=6DB33F&text_color=ffffff&border_color=444444" alt="Top Langs" />
-
-  <br><br>
-
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Problem Solving </h2>
   <a href="https://solved.ac/cout980221">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
