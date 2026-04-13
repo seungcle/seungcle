@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ac5353,100:e17575&height=200&text=Welcome%20to%20seungcle's%20Dev%20Space&animation=blink&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:1a1a1a&height=200&text=Welcome%20to%20seungcle's%20Dev%20Space&animation=blink&fontColor=ffffff&fontSize=50" />
 
   <br>
 
@@ -21,11 +21,11 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 GitHub Stats </h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&bg_color=1a1a1a&title_color=e17575&text_color=ffffff&icon_color=ac5353&border_color=ac5353" alt="seungcle's GitHub stats" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&bg_color=1a1a1a&title_color=e17575&text_color=ffffff&border_color=ac5353" alt="top languages" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&bg_color=121212&title_color=ffffff&text_color=bbbbbb&icon_color=888888&border_color=444444" alt="seungcle's GitHub stats" height="175" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&bg_color=121212&title_color=ffffff&text_color=bbbbbb&border_color=444444" alt="top languages" height="175" />
   </div>
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=dark&background=1a1a1a&fire=e17575&ring=ac5353&stroke=ac5353&currStreakLabel=e17575" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=dark&background=121212&fire=ffffff&ring=888888&stroke=444444&currStreakLabel=ffffff" alt="GitHub Streak" />
 </div>
