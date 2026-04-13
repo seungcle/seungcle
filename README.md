@@ -18,5 +18,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=seungcle&bg_color=60,cc6161,e17575&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungcle&layout=compact&bg_color=60,cc6161,e17575&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
+    </div><br>
+
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungcle&show_icons=true&theme=radical)    
     
