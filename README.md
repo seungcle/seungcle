@@ -24,12 +24,5 @@
   <div style="display: flex; justify-content: center; align-items: center;">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungcle&theme=tokyonight&background=121212&ring=61DAFB&fire=6DB33F&currStreakLabel=ffffff" alt="GitHub Streak" height="175" />
   </div>
-
-  <br><br>
-
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Problem Solving </h2>
   <br>
-  <a href="https://solved.ac/cout980221">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=cout980221" alt="Solved.ac Profile" />
-  </a>
 </div>
